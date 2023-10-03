@@ -1,6 +1,6 @@
 # Gene K. Atanacio
 
-Software engineer with over a decade of experience in building platforms and applications in various domains. Favors agile development practices and leans toward delivering value with easily testable and maintainable code. Passionate about continuously learning different technologies and best practices, and passing them on to other engineers.
+Software engineer with over a decade of experience in building platforms and applications in various domains. Favors agility and continuous delivery, and leans toward delivering value with easily testable and maintainable code. Passionate about learning different technologies and best practices, and passing them on to other engineers.
 
 - [LinkedIn](https://www.linkedin.com/in/gene-k-atanacio)
 - [Resume](https://gkatanacio-resume.s3.ap-southeast-1.amazonaws.com/Atanacio%2C+Gene.pdf)
