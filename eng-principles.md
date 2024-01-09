@@ -31,7 +31,7 @@ I have compiled some principles to hopefully serve as a snapshot of my software 
 - Prefer pure functions
 - Avoid side effects and reliance on global state (define variables as "local" as possible)
 - Be intentional about the responsibilities of each component
-- Keep handler layer light
+- Keep handler layer (e.g., controller) light
 - Strive for low coupling, high cohesion
 - Producing correct output is just the bare minimum
 - Code readability is highly correlated to maintainability
@@ -42,6 +42,7 @@ I have compiled some principles to hopefully serve as a snapshot of my software 
 - Handle errors gracefully
 - Consider using guard clauses
 - KISS ([Keep It Simple, Stupid](https://en.wikipedia.org/wiki/KISS_principle))
+- A little duplication can be cheaper than a wrong abstraction ([The Wrong Abstraction](https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction), [Rule of Three](<https://en.wikipedia.org/wiki/Rule_of_three_(computer_programming)>))
 - Do not be afraid to continuously refactor
 - Standardize approaches within a particular codebase
 - Avoid premature optimization
