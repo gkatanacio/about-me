@@ -30,13 +30,13 @@ I have compiled some principles to hopefully serve as a snapshot of my software 
 - Avoid leaky abstractions
 - Prefer pure functions
 - Avoid side effects and reliance on global state (define variables as "local" as possible)
+- Strive for low coupling, high cohesion
 - Be intentional about the responsibilities of each component
 - Keep handler layer (e.g., controller) light
-- Strive for low coupling, high cohesion
 - Producing correct output is just the bare minimum
-- Code readability is highly correlated to maintainability
+- Code readability is highly correlated with maintainability
 - Write self-documenting code
-- Related code should be close to each other
+- It helps to have related code close to each other
 - Naming of variable/function/class should be expressive
 - Avoid using flag arguments (split into separate functions instead)
 - Handle errors gracefully
@@ -49,8 +49,8 @@ I have compiled some principles to hopefully serve as a snapshot of my software 
 
 ### On Writing Tests
 
-- Consider utilizing mocks to achieve pure unit tests that can run fast
 - Prefer fresh fixtures
+- Consider utilizing mocks to achieve pure unit tests that can run fast
 - There is a cost to maintaining tests (test judiciously)
 
 ### On Dependencies
