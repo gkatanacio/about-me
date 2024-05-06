@@ -35,6 +35,7 @@ I have compiled some principles to hopefully serve as a snapshot of my software 
 - Keep handler layer (e.g., controller) light
 - Producing correct output is just the bare minimum
 - Code readability is highly correlated with maintainability
+- Clear is better than clever
 - Write self-documenting code
 - It helps to have related code close to each other
 - Naming of variable/function/class should be expressive
