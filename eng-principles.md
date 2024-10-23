@@ -51,7 +51,7 @@ I have compiled some principles to hopefully serve as a snapshot of my software 
 ### On Writing Tests
 
 - Prefer fresh fixtures
-- Consider utilizing mocks to achieve pure unit tests that can run fast
+- Consider utilizing mocks to achieve pure unit tests with proper boundaries that can run fast
 - There is a cost to maintaining tests (test judiciously)
 
 ### On Dependencies
